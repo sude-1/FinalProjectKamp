@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.Extensions.DependencyInjection;
 using Castle.DynamicProxy;
-using Core.Extencition;
+using Core.Extension;
 using Business.Constants;
 
 namespace Business.BusinessAspect.Autofac
